@@ -83,16 +83,6 @@ if (age >= 18) {
 
 console.log(2)
 
-let item = {
-  name: 'Intel core i7',
-  price: '100$',
-  discount: ''
-}
-
-if (true) {
-
-}
-
 
 
 // Занятие 1. Слайд 10
